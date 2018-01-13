@@ -1,4 +1,4 @@
-# Tyres Warehouse System- Design
+# Tyres Warehouse System Design
 
 In this project an information system for a tyres warehouse has been designed.
 The language used are Java and UML. Eclipse was the IDE. JUnit was used for the tests. OracleMySQL was the DBMS.
